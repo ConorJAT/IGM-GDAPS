@@ -1,0 +1,8 @@
+food,Apple|2|0.5
+weapon,Tiny Stick|1|1|1.4
+food,Beef Pot Pie|8|1.0
+weapon,Sword of Hitting|4|25|15.5
+weapon,Axe of Chopping|12|19|12.7
+food,Pumpkin|6|17.8
+food,Cashew|1|0.01
+weapon,Toothpick|1|0|0.02

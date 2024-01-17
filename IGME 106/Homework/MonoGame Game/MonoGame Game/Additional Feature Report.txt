@@ -1,0 +1,12 @@
+Conor Race
+Feb 15th, 2022
+
+For my MonoGame Game program, I decided to add moving enemies as my additional game feature.
+These enemies take the form from the Enemy class, which inherits from the GameObject class. Whenever
+the player makes contact with one of these enemies, the game ends instantly (and the player loses).
+
+The enemies start appearing on level 3, where there exist two enemies traveling in vertical directions
+on the screen. The time is also increased from 10 seconds to 15 seconds, as to allow time for the user
+to move around the enemies. Two more enemies join the fight on level 7 onwards. These new additional
+enemies travel in horizontal directions, in addition to the vertial traveling ones. Once again, the time
+is also increased to 20 seconds as to allow for even more time to move around the obstacles.

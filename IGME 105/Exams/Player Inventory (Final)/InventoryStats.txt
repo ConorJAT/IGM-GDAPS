@@ -1,0 +1,3 @@
+Current Number of Items: 7
+Inventory Max Weight: 40
+Inventory Current Weight: 31.13

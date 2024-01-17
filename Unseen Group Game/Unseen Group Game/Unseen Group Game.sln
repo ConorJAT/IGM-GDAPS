@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unseen Group Game", "Unseen Group Game\Unseen Group Game.csproj", "{656715F9-832B-4B90-85DD-6556F827D845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{656715F9-832B-4B90-85DD-6556F827D845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656715F9-832B-4B90-85DD-6556F827D845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656715F9-832B-4B90-85DD-6556F827D845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656715F9-832B-4B90-85DD-6556F827D845}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7B87586-4435-4BF1-A59E-34025C8136B0}
+	EndGlobalSection
+EndGlobal
